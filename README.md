@@ -1,4 +1,4 @@
-# DBMA-shell-scripting
+# DBMS-shell-scripting
 
 Database Management System using Bash Shell Scripting (ITI 39)
 
